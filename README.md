@@ -1,7 +1,7 @@
 ### Olá! Meu nome é Alex Francisco
 
-- 🔭 Atualmente trabalho gerenciando um depósito de material de construção
-- 🌱 Estudando JavaScript
+- 🔭 Atualmente em busca de recolocação no mercado de trabalho
+- 🌱 Estudando JavaScript e iniciando faculdade de análise e desenvolvimento de sistemas
 - 📫 Meu email: alexfranciscoss@hotmail.com
 
 <div>
